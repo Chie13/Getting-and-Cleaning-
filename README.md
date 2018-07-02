@@ -6,13 +6,13 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 Data came from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone
 
-### Short Procedure 
+### Summary of Procedure 
 
 You should create one R script called run_analysis.R that does the following.
 
 1. Download the dataset
 2. Extract all the needed datasets, Traing and Test datasets.
-3. Loads the activity and subject data for each dataset, and merges those columns with the dataset
+3. Loads the activity and subject data for each dataset, and merges those columns with the dataset and
 Merges the two datasets
 4. Appropriately labels the data set with descriptive variable names.
 5. Creates a second independent tidy data set with the average of each variable for each activity and each subject.
